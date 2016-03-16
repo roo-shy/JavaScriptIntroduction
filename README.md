@@ -1,4 +1,5 @@
 # JavaScriptIntroduction
+
 #Intro to JavaScript
 //Turn a sentence into an Array, and select the words that are six characters long
 http://codepen.io/rooshy/pen/aNBQmQ?editors=0010

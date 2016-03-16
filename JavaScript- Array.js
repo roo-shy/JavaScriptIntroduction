@@ -1,3 +1,4 @@
+//Turn a sentence into an Array, and select the words that are six characters long
 var str = "Schlitz four dollar toast godard truffaut bespoke neutra artisan pop-up. Chia keytar single-origin coffee sustainable disrupt.";
 var words = str.replace(/\./g, "").split(" ");
 
