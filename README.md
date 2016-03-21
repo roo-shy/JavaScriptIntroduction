@@ -1,14 +1,14 @@
 # JavaScriptIntroduction
 
-Assign "Hello World" to a variable message
-Assign a different string to a different variable
-Assign a number to a variable
-Use string interpolation'ish to display the number in a string
-Make an array of your favorite movies or books or bands.
-Write some JavaScript
-Understand Arrays
-Understand Hashes
-Write some methods
+    Assign "Hello World" to a variable message
+    Assign a different string to a different variable
+    Assign a number to a variable
+    Use string interpolation'ish to display the number in a string
+    Make an array of your favorite movies or books or bands.
+    Write some JavaScript
+    Understand Arrays
+    Understand Hashes
+    Write some methods
 
 #Intro to JavaScript
 //Turn a sentence into an Array, and select the words that are six characters long
