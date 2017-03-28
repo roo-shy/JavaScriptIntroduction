@@ -1,4 +1,4 @@
-# JavaScriptIntroduction
+# JavaScript Basics
 
  * Assign "Hello World" to a variable message
  
